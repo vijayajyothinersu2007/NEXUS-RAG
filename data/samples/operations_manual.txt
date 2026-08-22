@@ -1,0 +1,20 @@
+OPERATIONS MANUAL
+Document ID: OPS-MAN-2025
+Version: 3.0
+Owner: Operations
+Effective: 15 March 2025
+
+1. REQUEST SUBMISSION PROCESS
+Employees must submit operational and leave requests within 7 days of the required date.
+Requests are routed to the department manager for approval.
+
+2. ONBOARDING PROCESS
+The onboarding process requires:
+- Identity verification
+- Policy acknowledgement
+- System access request
+- Manager approval
+
+3. CONFLICT NOTE
+Request timing in this manual is 7 days. Later policy versions may specify a different window.
+This manual references Security Regulation SR-2024 for access provisioning.

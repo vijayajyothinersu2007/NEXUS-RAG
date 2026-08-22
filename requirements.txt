@@ -1,0 +1,20 @@
+# NexusRAG — Phase 1 dependencies
+# Later phases will add embeddings, vector DB, BM25, reranking, and LLM clients.
+
+streamlit>=1.40.0
+pymupdf>=1.24.14
+python-docx>=1.1.2
+pandas>=2.2.3
+openpyxl>=3.1.5
+python-dotenv>=1.0.1
+pydantic>=2.10.0
+pydantic-settings>=2.7.0
+pytest>=8.3.0
+# Append to requirements.txt
+sentence-transformers>=3.0.0
+chromadb>=0.5.0
+langchain-text-splitters>=0.2.0
+rank-bm25>=0.2.2
+google-genai>=1.0.0
+plotly>=5.24.0
+networkx>=3.2

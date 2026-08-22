@@ -1,0 +1,16 @@
+COMPLIANCE GUIDELINES CG-2025
+Document ID: CG-2025
+Version: 2.0
+Owner: Compliance
+Effective: 1 April 2025
+
+1. REQUIREMENT TRACEABILITY
+Every operational requirement must be supported by a named policy or regulation.
+The current employee attendance requirement is defined by the latest Employee Policy.
+
+2. DOCUMENT HIERARCHY
+Security Regulation SR-2024 prevails over internal manuals when access-control requirements conflict.
+Employee Policy 2026 supersedes Employee Policy 2025.
+
+3. EVIDENCE STANDARD
+Compliance reviews must cite document name, version, section, and excerpt. Unsupported claims are not acceptable.

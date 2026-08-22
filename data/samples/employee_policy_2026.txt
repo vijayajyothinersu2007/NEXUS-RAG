@@ -1,0 +1,26 @@
+EMPLOYEE POLICY 2026
+Document ID: POL-EMP-2026
+Version: 2026.1
+Owner: Human Resources
+Effective: 1 January 2026
+Supersedes: Employee Policy 2025 (POL-EMP-2025)
+References: Security Regulation SR-2024; Compliance Guidelines CG-2025
+
+1. PURPOSE
+This policy defines employee attendance, leave, and approval requirements for NexusCorp.
+
+2. ATTENDANCE REQUIREMENT
+Employees must maintain at least 75% attendance in each calendar quarter.
+Employees below 75% attendance must complete a performance improvement plan with HR and their manager.
+
+3. LEAVE REQUEST PROCESS
+Employees must submit leave requests within 5 days of the intended leave date.
+Leave requests require approval from the department manager and Human Resources.
+
+4. REMOTE WORK
+Remote work is permitted up to 3 days per week with manager approval.
+Remote workers must complete MFA enrollment before the first remote day.
+
+5. SECURITY ALIGNMENT
+This policy applies to the employee onboarding process and must remain consistent with Security Regulation SR-2024.
+MFA is required before system access is granted.

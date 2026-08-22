@@ -1,0 +1,19 @@
+SECURITY REGULATION SR-2024
+Document ID: SR-2024
+Version: 1.2
+Owner: Information Security
+Effective: 1 June 2024
+
+1. SCOPE
+This regulation affects the employee onboarding process, remote access, and production systems at NexusCorp.
+
+2. ACCESS CONTROL
+Multi-factor authentication (MFA) is required for all employees before system access is granted.
+Access reviews must be completed quarterly by system owners.
+
+3. ONBOARDING IMPACT
+During onboarding, HR must not provision accounts until MFA enrollment is complete.
+This regulation affects the leave and remote-work processes defined in Employee Policy documents.
+
+4. REFERENCES
+Related documents: Employee Policy 2025, Employee Policy 2026, Operations Manual, Compliance Guidelines CG-2025.

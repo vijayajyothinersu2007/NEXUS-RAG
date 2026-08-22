@@ -1,0 +1,5 @@
+requirement,policy_2025,policy_2026,status
+Attendance minimum,70%,75%,modified
+Leave request window,7 days,5 days,modified
+Leave approval,Department manager,Department manager and HR,modified
+MFA before access,Not stated,Required,added
