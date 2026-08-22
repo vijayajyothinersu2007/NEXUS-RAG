@@ -1,3 +1,8 @@
+import sys
+import os
+
+# Root Directory ని Python Path కి చేర్చడం
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 """NexusRAG Streamlit entry point."""
 
 from __future__ import annotations
