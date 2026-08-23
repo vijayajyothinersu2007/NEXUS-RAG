@@ -1,18 +1,10 @@
-import sys
-import os
-
-# Root Directory ని Python Path కి చేర్చడం
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 """NexusRAG Streamlit entry point."""
-
-from __future__ import annotations
-
-
 
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
@@ -24,8 +16,10 @@ from app.pages.evaluation import render_evaluation
 from app.pages.knowledge_graph import render_knowledge_graph
 from app.pages.settings import render_settings
 from app.pages.versions import render_versions
+
 from app.ui.layout import bootstrap_page, render_sidebar
 from config.settings import get_settings
+
 
 PAGE_RENDERERS = {
     "dashboard": render_dashboard,
@@ -42,8 +36,13 @@ PAGE_RENDERERS = {
 def main() -> None:
     get_settings()
     bootstrap_page()
+
     page = render_sidebar()
-    PAGE_RENDERERS[page]()
+
+    if page in PAGE_RENDERERS:
+        PAGE_RENDERERS[page]()
+    else:
+        render_dashboard()
 
 
 if __name__ == "__main__":
